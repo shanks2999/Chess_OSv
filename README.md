@@ -12,6 +12,12 @@
 **Classes Overview**: 
 
   Using JavaOpenChess as base. Created wrapper classes (Total 7 classes: 4 Java Beans, 1 SpringBoot app, 1 Rest controller and 1 class with only static variables)
+  3 Wrappers:
+   - localhost:8080/newgame
+   - localhost:8080/move
+   - localhost:8080/quitgame
+   
+   Params in the Servlet_RestController class
     
     
 **Explain/Notes:**
@@ -23,6 +29,7 @@
     - The code is properly commnted and provided relevant test cases as well for the wrapper functions.
     - The project can be executed either via IntelliJ or Grable locally.(gradle clean build)
     - OSV image in path
+   
 
  
  **Deployment on AWS**
@@ -31,7 +38,9 @@
  
  **Docker Deployment**
  
- - Deployed image on docker: docker pull smaith2/shanks-chess
+ - Deployed image on docker: 
+    - docker pull smaith2/shanks-chess
+    - docker run -p 8080:8080 shanks-chess
  
  
  **Bonus:**
