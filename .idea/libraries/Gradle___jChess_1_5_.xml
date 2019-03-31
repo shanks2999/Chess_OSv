@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :jChess-1.5:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jChess-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
