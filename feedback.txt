@@ -1,0 +1,10 @@
+Hi Shashank:
+this is a nicely done homework - well-structured with the video and tests. I would like to see more in your documentation describing your negative experiences and what situations your less than optimal choices led you to.
+
+Unfortunately, there is no docker deployment.
+
+Regardless, you earned 5%. Well done, congratulations!
+
+
+Thank you,
+Mark
