@@ -1,6 +1,4 @@
-# README #
-
-# Chess Osv#
+# Chess Osv #
 
 
 **Description:**  
